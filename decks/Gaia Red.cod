@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Gaia Force (ST1-16)"/>
+        <card number="4" name="Agumon (ST1-03)"/>
+        <card number="4" name="Dracomon (ST1-02)"/>
+        <card number="4" name="Piyomon (ST1-04)"/>
+        <card number="4" name="Birdramon (ST1-05)"/>
+        <card number="4" name="Coredramon (ST1-06)"/>
+        <card number="2" name="Greymon (ST1-07)"/>
+        <card number="4" name="Garudamon (ST1-08)"/>
+        <card number="4" name="MetalGreymon (ST1-09)"/>
+        <card number="2" name="Hououmon (ST1-10)"/>
+        <card number="2" name="WarGreymon (ST1-11)"/>
+        <card number="4" name="Yagami Taichi (ST1-12)"/>
+        <card number="4" name="Shadow Wing (ST1-13)"/>
+        <card number="4" name="Starlight Explosion (ST1-14)"/>
+        <card number="2" name="Giga Destroyer (ST1-15)"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Koromon (ST1-01)"/>
+    </zone>
+</cockatrice_deck>
