@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Bearmon (ST2-04)"/>
+        <card number="2" name="Cocytus Breath (ST2-16)"/>
+        <card number="4" name="Gabumon (ST2-03)"/>
+        <card number="2" name="Garurumon (ST2-06)"/>
+        <card number="4" name="Gomamon (ST2-02)"/>
+        <card number="4" name="Grizzmon (ST2-07)"/>
+        <card number="4" name="Hammer Spark (ST2-13)"/>
+        <card number="4" name="Ikkakumon (ST2-05)"/>
+        <card number="4" name="Ishida Yamato (ST2-12)"/>
+        <card number="2" name="Kaiser Nail (ST2-15)"/>
+        <card number="2" name="MetalGarurumon (ST2-11)"/>
+        <card number="2" name="Plesiomon (ST2-10)"/>
+        <card number="4" name="Sorrow Blue (ST2-14)"/>
+        <card number="4" name="WereGarurumon (ST2-08)"/>
+        <card number="4" name="Zudomon (ST2-09)"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Tsunomon (ST2-01)"/>
+    </zone>
+</cockatrice_deck>
