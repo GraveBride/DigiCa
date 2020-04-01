@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Plotmon (ST3-02)"/>
+        <card number="4" name="Bakumon (ST3-03)"/>
+        <card number="4" name="Patamon (ST3-04)"/>
+        <card number="2" name="Angemon (ST3-05)"/>
+        <card number="4" name="Tailmon(ST3-06)"/>
+        <card number="4" name="Unimon (ST3-07)"/>
+        <card number="4" name="HolyAngemon (ST3-08)"/>
+        <card number="4" name="Angewomon (ST3-09)"/>
+        <card number="2" name="Holydramon (ST3-10)"/>
+        <card number="2" name="Seraphimon (ST3-11)"/>
+        <card number="4" name="Takaishi Takeru (ST3-12)"/>
+        <card number="4" name="Heaven's Gate (ST3-13)"/>
+        <card number="2" name="Heaven's Charm (ST3-14)"/>
+        <card number="4" name="Holy Flame (ST3-15)"/>
+        <card number="2" name="Seven Heavens(ST3-16)"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Tokomon (ST3-01)"/>
+    </zone>
+</cockatrice_deck>
