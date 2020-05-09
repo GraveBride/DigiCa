@@ -20,7 +20,7 @@
 			<releasedate>2020-04-24</releasedate>
 		</set>
 		<set>
-			<name>PR</name>
+			<name>PROMO</name>
 			<longname>Promotional Cards</longname>
 			<settype>Promotional</settype>
 			<releasedate />
@@ -36,58 +36,58 @@
 	<!-- ST1 -->
 		<card>
 			<name>Koromon (ST1-01)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-01.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-01.png">ST1</set>
 			<color>Red</color>
 			<manacost>-</manacost>
 			<cmc>-</cmc>
-			<type>Digitama - Lesser - Baby</type> 
+			<type>Digitama - Baby - Lesser</type> 
 			<loyalty>2</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[During your turn] If this Digimon has 4 or more Evolution Sources, this Digimon gets +1000 DP.</text>
+			<text>(Evolution Source)[Your Turn] If this Digimon has 4 or more Evolution Sources, this Digimon gets +1000 DP.</text>
 		</card>
 		<card>
-			<name>Dracomon (ST1-02)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-04.png">ST1</set>
-			<color>Red</color>
-			<manacost>3</manacost>
-			<cmc>0</cmc>
-			<type>Digimon - Dragon - Data - Child</type> 
-			<pt>4000</pt>
-			<loyalty>3</loyalty>
-			<tablerow>2</tablerow>
-			<text></text>
-		</card>
-		<card>
-			<name>Agumon (ST1-03)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-03.png">ST1</set>
-			<color>Red</color>
-			<manacost>3</manacost>
-			<cmc>0</cmc>
-			<type>Digimon - Reptile - Vaccine - Child</type> 
-			<pt>2000</pt>
-			<loyalty>3</loyalty>
-			<tablerow>2</tablerow>
-			<text>(Evolution Source)[During your turn] This Digimon gets +1000 DP.</text>
-		</card>		
-		<card>
-			<name>Piyomon (ST1-04)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-02.png">ST1</set>
+			<name>Piyomon (ST1-02)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-02.png">ST1</set>
 			<color>Red</color>
 			<manacost>2</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Chick - Vaccine - Child</type> 
+			<type>Digimon - Child - Vaccine - Chick</type> 
 			<pt>3000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
 			<text></text>
 		</card>
 		<card>
+			<name>Agumon (ST1-03)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-03.png">ST1</set>
+			<color>Red</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Vaccine - Reptile</type> 
+			<pt>2000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[Your Turn] This Digimon gets +1000 DP.</text>
+		</card>		
+		<card>
+			<name>Dracomon (ST1-04)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-04.png">ST1</set>
+			<color>Red</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Data - Dragon</type> 
+			<pt>4000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
 			<name>Birdramon (ST1-05)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-05.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-05.png">ST1</set>
 			<color>Red</color>
 			<manacost>4</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Giant Bird - Vaccine - Adult</type> 
+			<type>Digimon - Adult - Vaccine - Giant Bird</type> 
 			<pt>5000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
@@ -95,60 +95,60 @@
 		</card>
 		<card>
 			<name>Coredramon (ST1-06)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-06.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-06.png">ST1</set>
 			<color>Red</color>
 			<manacost>5</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Dragon - Virus - Adult</type> 
+			<type>Digimon - Adult - Virus - Dragon</type> 
 			<pt>6000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
-			<text>[Blocker](When your opponent's Digimon attacks, if this Digimon is Active, you may make it the target of that attack by Resting it.)
-[When it attacks] Memory -2.</text>
+			<text>[Blocker]
+[On Attack] -2 Memory.</text>
 		</card>
 		<card>
 			<name>Greymon (ST1-07)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-07.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-07.png">ST1</set>
 			<color>Red</color>
 			<manacost>5</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Dinosaur - Vaccine - Reptile</type> 
+			<type>Digimon - Adult - Vaccine - Dinosaur</type> 
 			<pt>4000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[Security Attack +1](When this Digimon attacks Security, it checks +1 more.)</text>
+			<text>(Evolution Source)[Security Attack +1]</text>
 		</card>
 		<card>
 			<name>Garudamon (ST1-08)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-08.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-08.png">ST1</set>
 			<color>Red</color>
 			<manacost>6</manacost>
 			<cmc>3</cmc>
-			<type>Digimon - Bird Man - Vaccine - Perfect</type> 
+			<type>Digimon - Perfect - Vaccine - Bird Man</type> 
 			<pt>7000</pt>
 			<loyalty>5</loyalty>
 			<tablerow>2</tablerow>
-			<text>[When Evolving] During this turn, 1 of your Digimon gets +3000 DP.</text>
+			<text>[On Evolution] For this turn, 1 Digimon you control gets +3000 DP.</text>
 		</card>
 		<card>
 			<name>MetalGreymon (ST1-09)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-09.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-09.png">ST1</set>
 			<color>Red</color>
 			<manacost>7</manacost>
 			<cmc>3</cmc>
-			<type>Digimon - Cyborg - Vaccine - Perfect</type> 
+			<type>Digimon - Perfect - Vaccine - Cyborg</type> 
 			<pt>7000</pt>
 			<loyalty>5</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[During your turn] When this Digimon is blocked, +3 Memory.</text>
+			<text>(Evolution Source)[Your Turn] If this Digimon is blocked, +3 Memory.</text>
 		</card>
 		<card>
 			<name>Hououmon (ST1-10)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-10.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-10.png">ST1</set>
 			<color>Red</color>
 			<manacost>10</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Holy Beast - Vaccine - Ultimate</type> 
+			<type>Digimon - Ultimate - Vaccine - Holy Beast</type> 
 			<pt>12000</pt>
 			<loyalty>6</loyalty>
 			<tablerow>2</tablerow>
@@ -156,95 +156,95 @@
 		</card>
 		<card>
 			<name>WarGreymon (ST1-11)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-11.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-11.png">ST1</set>
 			<color>Red</color>
 			<manacost>12</manacost>
 			<cmc>4</cmc>
-			<type>Digimon - Dragon Man - Vaccine - Ultimate</type> 
+			<type>Digimon - Ultimate - Vaccine - Dragon Man</type> 
 			<pt>12000</pt>
 			<loyalty>6</loyalty>
 			<tablerow>2</tablerow>
-			<text>[During your turn] For every 2 of this Digimon's Evolution Sources, it gets [Security Attack +1]. (When this Digimon attacks Security, increase the number checked by 1.)</text>
+			<text>[Your Turn] For every 2 of this Digimon's Evolution Sources, this Digimon gets [Security Attack +1].</text>
 		</card>
 		<card>
 			<name>Yagami Taichi (ST1-12)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-12.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-12.png">ST1</set>
 			<color>Red</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>Tamer</type> 
 			<tablerow>2</tablerow>
-			<text>[During your turn] All of your Digimon get +1000 DP.
+			<text>[Your Turn] All Digimon you control get +1000 DP.
 	
-[Security] Play this card without paying the cost.</text>
+[Security] Play this card without paying its cost.</text>
 		</card>
 		<card>
 			<name>Shadow Wing (ST1-13)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-13.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-13.png">ST1</set>
 			<color>Red</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>Option</type> 
 			<tablerow>2</tablerow>
-			<text>[Main Phase] During this turn, 1 of your Digimon gets +3000 DP.
+			<text>[Main] For this turn, 1 Digimon you control gets +3000 DP.
 
-[Security] Until the end of your next turn, all of your Digimon get [Security Attack +1]. (When it attacks Security, increase the number checked by 1.)</text>
+[Security] Until the end of your next turn, all Digimon you control get [Security Attack +1].</text>
 		</card>
 		<card>
 			<name>Starlight Explosion (ST1-14)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-14.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-14.png">ST1</set>
 			<color>Red</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>Option</type> 
 			<tablerow>2</tablerow>
-			<text>[Main Phase] Until the end of your opponent's next turn, your Security Digimon get +7000 DP.
+			<text>[Main Phase] Until the end of your opponent's next turn, all of your Security Digimon get +7000 DP.
 
-[Security] During this turn, your Security Digimon get +7000 DP.</text>
+[Security] For this turn, all of your Security Digimon get +7000 DP.</text>
 		</card>
 		<card>
 			<name>Giga Destroyer (ST1-15)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/giga-destroyer-215x300.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-15.png">ST1</set>
 			<color>Red</color>
 			<manacost>6</manacost>
 			<cmc>6</cmc>
 			<type>Option</type> 
 			<tablerow>2</tablerow>
-			<text>[Main Phase] Destroy up to 2 of your opponent's 4000 DP or less Digimon.
+			<text>[Main] Destroy up to 2 Digimon your opponent controls with 4000 DP or less.
 
 [Security] Activate this card's [Main] effect.</text>
 		</card>
 		<card>
 			<name>Gaia Force (ST1-16)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st1-16.png">ST1</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST1-16.png">ST1</set>
 			<color>Red</color>
 			<manacost>8</manacost>
 			<cmc>8</cmc>
 			<type>Option</type> 
 			<tablerow>2</tablerow>
-			<text>[Main] Destroy 1 of your opponent's Digimon.
+			<text>[Main] Destroy 1 Digimon your opponent controls.
 
 [Security] Activate this card's [Main] effect.</text>
 		</card>
 	<!-- ST2 -->
 		<card>
 			<name>Tsunomon (ST2-01)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-01.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-01.png">ST2</set>
 			<color>Blue</color>
 			<manacost>-</manacost>
 			<cmc>-</cmc>
-			<type>Digitama - Lesser - Baby</type> 
+			<type>Digitama - Baby - Lesser</type> 
 			<loyalty>2</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[During your turn] When it battles an opponent's Digimon with no Evolution Sources, it gets +1000 DP.</text>
+			<text>(Evolution Source)[Your Turn] When this Digimon battles a Digimon your opponent controls with no Evolution Sources, this Digimon gets +1000 DP.</text>
 		</card>
 		<card>
 			<name>Gomamon (ST2-02)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-02.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-02.png">ST2</set>
 			<color>Blue</color>
 			<manacost>2</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Marine Animal - Vaccine - Child</type> 
+			<type>Digimon - Child - Vaccine - Marine Animal</type> 
 			<pt>3000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
@@ -252,23 +252,23 @@
 		</card>
 		<card>
 			<name>Gabumon (ST2-03)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-03.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-03.png">ST2</set>
 			<color>Blue</color>
 			<manacost>3</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Reptile - Data - Child</type> 
+			<type>Digimon - Child - Data - Reptile</type> 
 			<pt>2000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[When it attacks] Remove the lowest Evolution Source from 1 of your opponent’s Level 5 or less Digimon.</text>
+			<text>(Evolution Source)[On Attack] Remove the lowest Evolution Source from 1 Level 5 or lower Digimon your opponent controls.</text>
 		</card>
 		<card>
 			<name>Bearmon (ST2-04)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-04.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-04.png">ST2</set>
 			<color>Blue</color>
 			<manacost>3</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Beast - Vaccine - Child</type> 
+			<type>Digimon - Child - Vaccine - Bear</type> 
 			<pt>4000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
@@ -276,11 +276,11 @@
 		</card>
 		<card>
 			<name>Ikkakumon (ST2-05)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-05.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-05.png">ST2</set>
 			<color>Blue</color>
 			<manacost>4</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Marine Animal - Vaccine - Adult</type> 
+			<type>Digimon - Adult - Vaccine - Marine Animal</type> 
 			<pt>5000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
@@ -288,61 +288,60 @@
 		</card>
 		<card>
 			<name>Garurumon (ST2-06)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-06.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-06.png">ST2</set>
 			<color>Blue</color>
 			<manacost>5</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Beast - Vaccine - Adult</type> 
+			<type>Digimon - Adult - Vaccine - Beast</type> 
 			<pt>4000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[When it attacks] Remove the lowest Evolution Source from 1 of your opponent’s Digimon.</text>
+			<text>(Evolution Source)[On Attack] Remove the lowest Evolution Source from 1 Digimon your opponent controls.</text>
 		</card>
 		<card>
 			<name>Grizzmon (ST2-07)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-07.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-07.png">ST2</set>
 			<color>Blue</color>
 			<manacost>5</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Beast - Vaccine - Adult</type> 
+			<type>Digimon - Adult - Vaccine - Beast</type> 
 			<pt>6000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
-			<text>[Blocker](When your opponent's Digimon attacks, if this Digimon is Active, you may make it the target of that attack by Resting it.)
-[When it attacks] Memory -2.</text>
+			<text>[Blocker]
+[On Attack] -2 Memory.</text>
 		</card>
 		<card>
 			<name>WereGarurumon (ST2-08)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-08.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-08.png">ST2</set>
 			<color>Blue</color>
 			<manacost>7</manacost>
 			<cmc>3</cmc>
-			<type>Digimon - Beast Man - Vaccine - Perfect</type> 
+			<type>Digimon - Perfect - Vaccine - Beast Man</type> 
 			<pt>7000</pt>
 			<loyalty>5</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[During your turn] While your opponent has a Digimon with no Evolution Sources, this Digimon gets [Security Attack +1]. (When this Digimon attacks Security, increase the number checked by 1.)</text>
+			<text>(Evolution Source)[Your Turn] While your opponent controls a Digimon with no Evolution Sources, this Digimon gets [Security Attack +1].</text>
 		</card>
 		<card>
 			<name>Zudomon (ST2-09)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-09.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-09.png">ST2</set>
 			<color>Blue</color>
 			<manacost>6</manacost>
 			<cmc>3</cmc>
-			<type>Digimon - Marine Animal - Vaccine - Perfect</type> 
+			<type>Digimon - Perfect - Vaccine - Marine Animal</type> 
 			<pt>7000</pt>
 			<loyalty>5</loyalty>
 			<tablerow>2</tablerow>
-			<text>[When evolving] Remove the 2 lowest Evolution Sources from 1 of your opponent’s Digimon.
-</text>
+			<text>[On Evolution] Remove the 2 lowest Evolution Sources from 1 Digimon your opponent controls.</text>
 		</card>
 		<card>
 			<name>Plesiomon (ST2-10)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-10.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-10.png">ST2</set>
 			<color>Blue</color>
 			<manacost>10</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Plesiosaur - Data - Ultimate</type> 
+			<type>Digimon - Ultimate - Data - Plesiosaur</type> 
 			<pt>12000</pt>
 			<loyalty>6</loyalty>
 			<tablerow>2</tablerow>
@@ -350,32 +349,32 @@
 		</card>
 		<card>
 			<name>MetalGarurumon (ST2-11)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-11.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-11.png">ST2</set>
 			<color>Blue</color>
 			<manacost>12</manacost>
 			<cmc>4</cmc>
-			<type>Digimon - Cyborg - Data - Ultimate</type> 
+			<type>Digimon - Ultimate - Data - Cyborg</type> 
 			<pt>11000</pt>
 			<loyalty>6</loyalty>
 			<tablerow>2</tablerow>
-			<text>[When it attacks][Once per turn] Make this Digimon Active.</text>
+			<text>[On Attack][1/Turn] Make this Digimon Active.</text>
 		</card>
 		<card>
 			<name>Ishida Yamato (ST2-12)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-12.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-12.png">ST2</set>
 			<color>Blue</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>Tamer</type> 
 			<tablerow>2</tablerow>
-			<text>[At the beginning of your turn] When your opponent has a Digimon without an Evolution Source, +1 Memory.
+			<text>[Start of Your Turn] If your opponent controls a Digimon without an Evolution Source, +1 Memory.
 
-[Security] Play this card without paying the cost.
+[Security] Play this card without paying its cost.
 </text>
 		</card>
 		<card>
 			<name>Hammer Spark (ST2-13)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-13.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-13.png">ST2</set>
 			<color>Blue</color>
 			<manacost>0</manacost>
 			<cmc>0</cmc>
@@ -387,38 +386,38 @@
 		</card>
 		<card>
 			<name>Sorrow Blue (ST2-14)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st2-14.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-14.png">ST2</set>
 			<color>Blue</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>Option</type> 
 			<tablerow>2</tablerow>
-			<text>[Main] Choose 1 of your opponent’s Digimon with no Evolution Sources. Until the end of their next turn, that Digimon cannot attack or block.
+			<text>[Main] Choose 1 Digimon your opponent controls with no Evolution Sources. Until the end of their next turn, that Digimon cannot attack or block.
 
-[Security] Choose 1 of your opponent’s Digimon with no Evolution Sources. Until the end of your next turn, that Digimon cannot attack or block.
+[Security] Choose 1 Digimon your opponent controls with no Evolution Sources. Until the end of your next turn, that Digimon cannot attack or block.
 </text>
 		</card>
 		<card>
 			<name>Kaiser Nail (ST2-15)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/kaiser-nail-215x300.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-15.png">ST2</set>
 			<color>Blue</color>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
 			<type>Option</type> 
 			<tablerow>2</tablerow>
-			<text>[Main] Choose a Digimon Card in your Digimon’s Evolution Sources, and place it as a new Digimon without paying the cost.
+			<text>[Main] Choose a Digimon Card from the Evolution Sources of a Digimon you control, play it as a new Digimon without paying its cost.
 
 [Security] Activate this card’s [Main] effect.</text>
 		</card>
 		<card>
 			<name>Cocytus Breath (ST2-16)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/cocytus-breath-b-358x500.png">ST2</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST2-16.png">ST2</set>
 			<color>Blue</color>
 			<manacost>7</manacost>
 			<cmc>7</cmc>
 			<type>Option</type> 
 			<tablerow>2</tablerow>
-			<text>[Main] Return 1 of your opponent’s Digimon to their hand. Discard its Evolution Sources.
+			<text>[Main] Return 1 Digimon your opponent controls to their hand. Discard its Evolution Sources.
 
 [Security] Activate this card’s [Main] effect.
 </text>
@@ -426,22 +425,22 @@
 	<!-- ST3 -->
 		<card>
 			<name>Tokomon (ST3-01)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st3-01.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-01.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>-</manacost>
 			<cmc>-</cmc>
-			<type>Digitama - Lesser - Baby</type> 
+			<type>Digitama - Baby - Lesser</type> 
 			<loyalty>2</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[During your turn] [Once per turn] When your opponent’s Digimon is destroyed by having its DP reduced to 0, this Digimon gets +1000 DP.</text>
+			<text>(Evolution Source)[Your Turn][1/Turn] When a Digimon your opponent controls is destroyed by having its DP reduced to 0, this Digimon gets +1000 DP.</text>
 		</card>
 		<card>
 			<name>Plotmon (ST3-02)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st3-02.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-02.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>2</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Mammal - Vaccine - Child</type> 
+			<type>Digimon - Child - Vaccine - Mammal</type> 
 			<pt>3000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
@@ -449,11 +448,11 @@
 		</card>
 		<card>
 			<name>Bakumon (ST3-03)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/04/st3-03-357x500.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-03.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>3</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Holy Beast - Vaccine - Child</type> 
+			<type>Digimon - Child - Vaccine - Holy Beast</type> 
 			<pt>4000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
@@ -461,35 +460,35 @@
 		</card>
 		<card>
 			<name>Patamon (ST3-04)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st3-04.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-04.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>3</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Mammal - Data - Child</type> 
+			<type>Digimon - Child - Data - Mammal</type> 
 			<pt>1000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[During your turn] [Once per turn] When your opponent’s Digimon is destroyed by having its DP reduced to 0, +1 Memory.</text>
+			<text>(Evolution Source)[Your Turn][1/Turn] When a Digimon your opponent controls is destroyed by having its DP reduced to 0, +1 Memory.</text>
 		</card>
 		<card>
 			<name>Angemon (ST3-05)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/ange.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-05.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>5</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Angel - Vaccine - Adult</type> 
+			<type>Digimon - Adult - Vaccine - Angel</type> 
 			<pt>4000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[When it attacks] If you have 4 or more Security, Memory +1.</text>
+			<text>(Evolution Source)[On Attack] If you have 4 or more Security, Memory +1.</text>
 		</card>
 		<card>
 			<name>Tailmon(ST3-06)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st3-06.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-06.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>4</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Holy Beast - Vaccine - Adult</type> 
+			<type>Digimon - Adult - Vaccine - Holy Beast</type> 
 			<pt>5000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
@@ -497,48 +496,48 @@
 		</card>
 		<card>
 			<name>Unimon (ST3-07)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st3-07.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-07.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>5</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Mythical Beast - Vaccine - Adult</type> 
+			<type>Digimon - Adult - Vaccine - Mythical Beast</type> 
 			<pt>6000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
-			<text>[Blocker](When your opponent’s Digimon attacks, if this Digimon is Active, you may make it the target of that attack by Resting it.)
-[When it attacks] Memory -2.</text>
+			<text>[Blocker]
+[On Attack] -2 Memory.</text>
 		</card>
 		<card>
 			<name>HolyAngemon (ST3-08)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st3-08.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-08.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>7</manacost>
 			<cmc>3</cmc>
-			<type>Digimon - Archangel - Vaccine - Perfect</type> 
+			<type>Digimon - Perfect - Vaccine - Archangel</type> 
 			<pt>7000</pt>
 			<loyalty>5</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[When it attacks] During this turn, 1 of your opponent’s Digimon gets -1000 DP.</text>
+			<text>(Evolution Source)[On Attack] For this turn, 1 Digimon your opponent controls gets -1000 DP.</text>
 		</card>
 		<card>
 			<name>Angewomon (ST3-09)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/04/st3-09-550x781.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-09.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>6</manacost>
 			<cmc>3</cmc>
-			<type>Digimon - Archangel - Vaccine - Perfect</type> 
+			<type>Digimon - Perfect - Vaccine - Archangel</type> 
 			<pt>7000</pt>
 			<loyalty>5</loyalty>
 			<tablerow>2</tablerow>
-			<text>When the number of your Security becomes 1 or less, [Recovery +1 (Deck)]. (Place 1 card from the top of your deck into the top of your Security.)</text>
+			<text>[On Evolution] If your Security is 3 or less, [Recovery +1(Deck)].</text>
 		</card>
 		<card>
 			<name>Holydramon (ST3-10)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st3-10.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-10.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>10</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Holy Beast - Vaccine - Ultimate</type> 
+			<type>Digimon - Ultimate - Vaccine - Holy Beast</type> 
 			<pt>12000</pt>
 			<loyalty>6</loyalty>
 			<tablerow>2</tablerow>
@@ -546,211 +545,1604 @@
 		</card>
 		<card>
 			<name>Seraphimon (ST3-11)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st3-11.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-11.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>12</manacost>
 			<cmc>4</cmc>
-			<type>Digimon - Seraph - Vaccine - Ultimate</type> 
+			<type>Digimon - Ultimate - Vaccine - Seraph / Three Great Angels</type> 
 			<pt>10000</pt>
 			<loyalty>6</loyalty>
 			<tablerow>2</tablerow>
-			<text>[When it attacks] During this turn, 1 of your opponent’s Digimon gets -4000 DP.</text>
+			<text>[On Attack] For this turn, 1 Digimon your opponent controls gets -4000 DP.</text>
 		</card>
 		<card>
 			<name>Takaishi Takeru (ST3-12)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st3-12.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-12.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>Tamer</type> 
 			<tablerow>2</tablerow>
-			<text>[During your opponent’s turn] All of your Security Digimon get +2000 DP.
+			<text>[Your Opponent’s Turn] All of your Security Digimon get +2000 DP.
 
-[Security] Play this card without paying the cost.</text>
+[Security] Play this card without paying its cost.</text>
 		</card>
 		<card>
 			<name>Heaven's Gate (ST3-13)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/04/st3-13-359x500.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-13.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
 			<type>Option</type> 
 			<tablerow>2</tablerow>
-			<text>[Main Phase] During this turn, 1 of your Digimon gets +3000 DP.
+			<text>[Main] For this turn, 1 Digimon you control gets +3000 DP.
 
-[Security] During this turn, all of your Digimon and Security Digimon get +5000 DP. Then add this card to your hand.</text>
+[Security] For this turn, all Digimon you control and all of your Security Digimon get +5000 DP. Add this card to your hand.</text>
 		</card>
 		<card>
 			<name>Heaven's Charm (ST3-14)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st3-14.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-14.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>Option</type> 
 			<tablerow>2</tablerow>
-			<text>[Main] During this turn, 1 of your opponent’s Digimon gets -2000 DP.
+			<text>[Main] For this turn, 1 Digimon your opponent controls gets -2000 DP.
 
 [Security] Add this card to your hand.</text>
 		</card>
 		<card>
 			<name>Holy Flame (ST3-15)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/st3-15.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-15.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
 			<type>Option</type> 
 			<tablerow>2</tablerow>
-			<text>[Main] Until the end of your opponent’s next turn, 1 of their Digimon gets [Security Attack -3]. (Decrease the number of Security this Digimon checks by 3.)
+			<text>[Main] Until the end of your opponent’s next turn, 1 Digimon your opponent controls gets [Security Attack -3].
 
-[Security] During this turn, all of your opponent’s Digimon get [Security Attack -1]. (Decrease the number of Security this Digimon checks by 1.)</text>
+[Security] For this turn, all Digimon your opponent controls get [Security Attack -1].</text>
 		</card>
 		<card>
 			<name>Seven Heavens(ST3-16)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/04/st3-16-360x500.png">ST3</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/ST3-16.png">ST3</set>
 			<color>Yellow</color>
 			<manacost>7</manacost>
 			<cmc>7</cmc>
 			<type>Option</type> 
 			<tablerow>2</tablerow>
-			<text>[Main Phase] During this turn, 1 of your opponent’s Digimon gets -10000 DP.
+			<text>[Main] For this turn, 1 Digimon your opponent controls gets -10000 DP.
 
-[Security] Activate this card’s [Main Phase] effect.</text>
+[Security] Activate this card’s [Main] effect.</text>
 		</card>
-	<!-- PR -->
+	<!-- PROMO -->
 		<card>
 			<name>Agumon (P-001)</name>
-			<set picURL="https://digimoncard.com/images/cardlist/card/P-001.png">PR</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/P-001.png">PROMO</set>
 			<color>Red</color>
 			<manacost>5</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Reptile - Vaccine - Child</type> 
+			<type>Digimon - Child - Vaccine - Reptile</type> 
 			<pt>3000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
-			<text>[When placed] Destroy 1 of your opponent’s 3000 DP or less Digimon.</text>
+			<text>[On Play] Destroy 1 Digimon your opponent controls with 3000 DP or less.</text>
 		</card>
 		<card>
 			<name>Piyomon (P-002)</name>
-			<set picURL="https://digimoncard.com/images/cardlist/card/P-002.png">PR</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/P-002.png">PROMO</set>
 			<color>Red</color>
 			<manacost>3</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Chick - Vaccine - Child</type> 
+			<type>Digimon - Child - Vaccine - Chick</type> 
 			<pt>2000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[During your turn] When this Digimon destroys your opponent’s Digimon by battle, [1 Draw.] (Draw 1 card from your deck.)</text>
+			<text>(Evolution Source)[Your Turn] When this Digimon destroys a Digimon your opponent controls by battle, [1 Draw].</text>
 		</card>
 		<card>
 			<name>Gabumon (P-003)</name>
-			<set picURL="https://digimoncard.com/images/cardlist/card/P-003.png">PR</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/P-003.png">PROMO</set>
 			<color>Blue</color>
 			<manacost>4</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Reptile - Data - Child</type> 
+			<type>Digimon - Child - Data - Reptile</type> 
 			<pt>3000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
-			<text>[When placed] Discard the lowest Evolution Source of 1 of your opponent’s Digimon.</text>
+			<text>[On Play] Discard the lowest Evolution Source of 1 Digimon your opponent controls.</text>
 		</card>
 		<card>
 			<name>Gomamon (P-004)</name>
-			<set picURL="https://digimoncard.com/images/cardlist/card/P-004.png">PR</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/P-004.png">PROMO</set>
 			<color>Blue</color>
 			<manacost>3</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Marine Animal - Vaccine - Child</type> 
+			<type>Digimon - Child - Vaccine - Marine Animal</type> 
 			<pt>1000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[During your turn] [Once per turn] When an opponent Digimon’s Evolution Source is removed, +1 Memory.</text>
+			<text>(Evolution Source)[Your Turn][1/Turn] When an Evolution Source is removed from a Digimon your opponent controls, +1 Memory.</text>
 		</card>
 		<card>
 			<name>Patamon (P-005)</name>
-			<set picURL="https://digimoncard.com/images/cardlist/card/P-005.png">PR</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/P-005.png">PROMO</set>
 			<color>Yellow</color>
 			<manacost>4</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Mammal - Data - Child</type> 
+			<type>Digimon - Child - Data - Mammal</type> 
 			<pt>2000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
-			<text>[When placed] When your Security is 1 or less, [Recovery +1 (Deck)]. (Place 1 card from the top of your deck into the top of your Security.)</text>
+			<text>[On Play] If your Security is 1 or less, [Recovery +1 (Deck)].</text>
 		</card>
 		<card>
 			<name>Tailmon (P-006)</name>
-			<set picURL="https://digimoncard.com/images/cardlist/card/P-006.png">PR</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/P-006.png">PROMO</set>
 			<color>Yellow</color>
 			<manacost>4</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Holy Beast - Vaccine - Adult</type> 
+			<type>Digimon - Adult - Vaccine - Holy Beast</type> 
 			<pt>4000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[During your turn] If your Security is 3 or more, this Digimon gets +1000 DP.</text>
+			<text>(Evolution Source)[Your Turn] If your Security is 3 or more, this Digimon gets +1000 DP.</text>
 		</card>
 		<card>
 			<name>Garurumon (P-007)</name>
-			<set picURL="https://digimoncard.com/images/cardlist/card/P-007.png">PR</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/P-007.png">PROMO</set>
 			<color>Blue</color>
 			<manacost>4</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Beast - Vaccine - Adult</type> 
+			<type>Digimon - Adult - Vaccine - Beast</type> 
 			<pt>4000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[When it attacks] If this Digimon’s name includes “Garurumon,” [1 Draw]. (Draw 1 card from your deck.)</text>
+			<text>(Evolution Source)[On Attack] If this Digimon’s name includes “Garurumon,” [1 Draw].</text>
 		</card>
 		<card>
 			<name>WereGarurumon (P-008)</name>
-			<set picURL="https://digimoncard.com/images/cardlist/card/P-008.png">PR</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/P-008.png">PROMO</set>
 			<color>Blue</color>
 			<manacost>7</manacost>
 			<cmc>3</cmc>
-			<type>Digimon - Beast Man - Vaccine - Perfect</type> 
+			<type>Digimon - Perfect - Vaccine - Beast Man</type> 
 			<pt>6000</pt>
 			<loyalty>5</loyalty>
 			<tablerow>2</tablerow>
-			<text>[When it attacks][Once per turn] If this Digimon has a “Garurumon” in its Evolution Sources, make this Digimon Active.
+			<text>[On Attack][1/Turn] If this Digimon has a “Garurumon” in its Evolution Sources, make this Digimon Active.
 	
-(Evolution Source)[During your turn] If the number of cards in your hand is 8 or greater, this Digimon gets [Security Attack +1]. (When it attacks Security, it checks 1 more.)</text>
+(Evolution Source)[Your Turn] If the number of cards in your hand is 8 or more, this Digimon gets [Security Attack +1].</text>
 		</card>
 		<card>
 			<name>Agumon (P-009)</name>
-			<set picURL="https://digimoncard.com/images/cardlist/card/P-009.png">PR</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/P-009.png">PROMO</set>
 			<color>Red</color>
 			<manacost>4</manacost>
 			<cmc>0</cmc>
-			<type>Digimon - Reptile - Vaccine - Child</type> 
+			<type>Digimon - Child - Vaccine - Reptile</type> 
 			<pt>2000</pt>
 			<loyalty>3</loyalty>
 			<tablerow>2</tablerow>
-			<text>(Evolution Source)[During your turn] If this Digimon’s name includes “Greymon,” it gets +2000 DP.</text>
+			<text>(Evolution Source)[Your Turn] If this Digimon’s name includes “Greymon,” this Digimon gets +2000 DP.</text>
 		</card>
 		<card>
 			<name>Greymon (P-010)</name>
-			<set picURL="https://digimoncard.com/images/cardlist/card/P-010.png">PR</set>
+			<set picURL="https://digimoncard.com/images/cardlist/card/P-010.png">PROMO</set>
 			<color>Red</color>
 			<manacost>5</manacost>
 			<cmc>2</cmc>
-			<type>Digimon - Dinosaur - Vaccine - Adult</type> 
+			<type>Digimon - Adult - Vaccine - Dinosaur</type> 
 			<pt>5000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
-			<text>[During your turn] If there is an “Agumon” in this Digimon’s Evolution Sources, it gets [Security Attack +1].</text>
+			<text>[Your Turn] If there is an “Agumon” in this Digimon’s Evolution Sources, this Digimon gets [Security Attack +1].</text>
+		</card>
+		<card>
+			<name>V-dramon Zero (P-011)</name>
+			<set picURL="https://digimoncard.net/wp-content/uploads/2020/04/EWGIstwUcAca6nU.jpg">PROMO</set>
+			<color>Blue</color>
+			<manacost>6</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Vaccine - Mythical Dragon</type> 
+			<pt>5000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Attack] If you control a Blue Tamer, you may discard 3 cards from the top of your deck to give this Digimon +2000 DP.
+
+(Evolution Source)[On Attack] You may place 3 non-Digitama cards from your Trash on the bottom of your deck, if you do, [1 Draw].</text>
+		</card>
+		<card>
+			<name>Yagami Taichi (Digimon Adventure V-Tamer 01) (P-012)</name>
+			<set picURL="https://digimoncard.net/wp-content/uploads/2020/04/EWGItt3UEAEow__.jpg">PROMO</set>
+			<color>Blue</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Tamer</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] If you control a Digimon with "V-dramon" in its name, you may Rest this Tamer to gain 1 of the following effects:
+-[1 Draw]
+-For this turn, 1 Digimon you control gets +1000 DP.
+
+[Security] Play this card without paying its cost.</text>
 		</card>
 	<!-- BT1 -->
 		<card>
-			<name>Leomon (BT1-034)</name>
-			<set picURL="https://digimoncard.net/wp-content/uploads/2020/03/leomon-208x300.jpg">BT1</set>
+			<name>Pyokomon (BT1-001)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-001.png">BT1</set>
+			<color>Red</color>
+			<manacost>-</manacost>
+			<cmc>-</cmc>
+			<type>Digitama - Baby - Bulb</type> 
+			<loyalty>2</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[On Attack] If this Digimonc attacks a Digimon your opponent controls, for this turn, this Digimon gets +1000 DP.</text>
+		</card>
+		<card>
+			<name>Babydmon (BT1-002)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-002.png">BT1</set>
+			<color>Red</color>
+			<manacost>-</manacost>
+			<cmc>-</cmc>
+			<type>Digitama - Baby - Baby Dragon</type> 
+			<loyalty>2</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[Your Turn] If this Digimon has [Pierce], this gets +2000 DP.</text>
+		</card>
+		<card>
+			<name>Upamon (BT1-003)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-003.png">BT1</set>
+			<color>Blue</color>
+			<manacost>-</manacost>
+			<cmc>-</cmc>
+			<type>Digitama - Baby - Amphibian</type> 
+			<loyalty>2</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[On Attack][1/Turn] If your opponent controls a Digimon with no Evolution Sources, [1 Draw].</text>
+		</card>
+		<card>
+			<name>Wanyamon (BT1-004)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-004.png">BT1</set>
+			<color>Blue</color>
+			<manacost>-</manacost>
+			<cmc>-</cmc>
+			<type>Digitama - Baby - Lesser</type> 
+			<loyalty>2</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[Your Turn] If your opponent controls 2 or more Digimon with no Evolution Sources, this Digimon gets +2000 DP.</text>
+		</card>
+		<card>
+			<name>Kyaromon (BT1-005)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-005.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>-</manacost>
+			<cmc>-</cmc>
+			<type>Digitama - Baby - Lesser</type> 
+			<loyalty>2</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[Your Turn] If you have 6 or more Security, this Digimon gets +2000 DP.</text>
+		</card>
+		<card>
+			<name>Cupimon (BT1-006)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-006.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>-</manacost>
+			<cmc>-</cmc>
+			<type>Digitama - Baby - Small Angel</type> 
+			<loyalty>2</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[On Attack] If you have 5 or more Security, [1 Draw].</text>
+		</card>
+		<card>
+			<name>Tanemon (BT1-007)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-007.png">BT1</set>
+			<color>Green</color>
+			<manacost>-</manacost>
+			<cmc>-</cmc>
+			<type>Digitama - Baby - Bulb</type> 
+			<loyalty>2</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[On Attack] If your Digimon evolved one or more times this turn, for this turn, this Digimon gets +1000 DP.</text>
+		</card>
+		<card>
+			<name>Frimon (BT1-008)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-008.png">BT1</set>
+			<color>Green</color>
+			<manacost>-</manacost>
+			<cmc>-</cmc>
+			<type>Digitama - Baby - Lesser</type> 
+			<loyalty>2</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[Your Turn] If your opponent controls 2 or more Digimon in Rest, this Digimon gets +2000 DP.</text>
+		</card>
+		<card>
+			<name>Monodramon (BT1-009)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-009.png">BT1</set>
+			<color>Red</color>
+			<manacost>2</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Vaccine - Small Dragon</type> 
+			<pt>3000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Agumon (BT1-010)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-010.png">BT1</set>
+			<color>Red</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Vaccine - Reptile</type> 
+			<pt>2000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play] Reveal 5 cards from the top of your deck, add 1 Tamer Card from among them to your hand, and return the rest to the bottom of your deck in any order.</text>
+		</card>
+		<card>
+			<name>Agumon Hakase (BT1-011)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-011.png">BT1</set>
+			<color>Red</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Vaccine - Dinosaur</type> 
+			<pt>1000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play] Return 1 Digimon Card with “Agumon” in its name from your Trash to your hand.</text>
+		</card>
+		<card>
+			<name>Piyomon (BT1-012)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-012.png">BT1</set>
+			<color>Red</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Vaccine - Chick</type> 
+			<pt>2000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[Your Turn] If this Digimon is blocked, this gets +2000 DP.</text>
+		</card>
+		<card>
+			<name>Muchomon (BT1-013)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-013.png">BT1</set>
+			<color>Red</color>
+			<manacost>3</manacost>
+			<cmc>1</cmc>
+			<type>Digimon - Child - Data - Bird</type> 
+			<pt>5000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Cockatrimon (BT1-014)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-014.png">BT1</set>
+			<color>Red</color>
+			<manacost>3</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Data - Giant Bird</type> 
+			<pt>4000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Greymon (BT1-015)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-015.png">BT1</set>
+			<color>Red</color>
+			<manacost>4</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Vaccine - Dinosaur</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[Your Turn] This Digimon gets +2000 DP.</text>
+		</card>
+		<card>
+			<name>Tyrannomon (BT1-016)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-016.png">BT1</set>
+			<color>Red</color>
+			<manacost>4</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Data - Dinosaur</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Jamming]</text>
+		</card>
+		<card>
+			<name>Birdramon (BT1-017)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-017.png">BT1</set>
+			<color>Red</color>
+			<manacost>4</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Vaccine - Giant Bird</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play] For this turn, 1 Digimon you control gets [Security Attack +1].</text>
+		</card>
+		<card>
+			<name>FlareLizamon (BT1-018)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-018.png">BT1</set>
+			<color>Red</color>
+			<manacost>5</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Data - Flame Dragon</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Your Turn] If you have 3 or more Memory, this Digimon gets [Security Attack +1].</text>
+		</card>
+		<card>
+			<name>DarkTyrannomon (BT1-019)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-019.png">BT1</set>
+			<color>Red</color>
+			<manacost>6</manacost>
+			<cmc>1</cmc>
+			<type>Digimon - Adult - Virus - Dinosaur</type> 
+			<pt>6000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Groundramon (BT1-020)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-020.png">BT1</set>
+			<color>Red</color>
+			<manacost>5</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Perfect - Virus - Earth Dragon</type> 
+			<pt>6000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>MetalGreymon (BT1-021)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-021.png">BT1</set>
+			<color>Red</color>
+			<manacost>6</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Vaccine - Cyborg</type> 
+			<pt>7000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Attack] +3 Memory. At the end of this turn, -3 Memory.</text>
+		</card>
+		<card>
+			<name>Garudamon (BT1-022)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-022.png">BT1</set>
+			<color>Red</color>
+			<manacost>7</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Vaccine - Bird Man</type> 
+			<pt>7000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Piercing]
+
+(Evolution Source)[Your Turn] If this Digimon is blocked, [1 Draw].</text>
+		</card>
+		<card>
+			<name>SkullGreymon (BT1-023)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-023.png">BT1</set>
+			<color>Red</color>
+			<manacost>7</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Virus - Undead</type> 
+			<pt>7000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play] Destroy 1 Digimon your opponent controls with [Blocker].</text>
+		</card>
+		<card>
+			<name>MetalTyrannomon (BT1-024)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-024.png">BT1</set>
+			<color>Red</color>
+			<manacost>7</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Virus - Cyborg</type> 
+			<pt>10000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>WarGreymon (BT1-025)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-025.png">BT1</set>
+			<color>Red</color>
+			<manacost>12</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Ultimate - Vaccine - Dragon Man</type> 
+			<pt>11000</pt>
+			<loyalty>6</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Evolution] For this turn, this Digimon gets [Security Attack +1].
+[Your Turn] The [Security] effects of Option Cards this Digimon checks do not activate.</text>
+		</card>
+		<card>
+			<name>Breakdramon (BT1-026)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-026.png">BT1</set>
+			<color>Red</color>
+			<manacost>12</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Ultimate - Virus - Machine Dragon</type> 
+			<pt>11000</pt>
+			<loyalty>6</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Piercing]</text>
+		</card>
+		<card>
+			<name>Armadimon (BT1-027)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-027.png">BT1</set>
+			<color>Blue</color>
+			<manacost>2</manacost>
+			<cmc>1</cmc>
+			<type>Digimon - Child - Free - Mammal</type> 
+			<pt>4000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Elecmon (BT1-028)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-028.png">BT1</set>
+			<color>Blue</color>
+			<manacost>2</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Data - Mammal</type> 
+			<pt>3000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Gabumon (BT1-029)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-029.png">BT1</set>
+			<color>Blue</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Data - Reptile</type> 
+			<pt>1000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play][1 Draw]</text>
+		</card>
+		<card>
+			<name>Gomamon (BT1-030)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-030.png">BT1</set>
+			<color>Blue</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Vaccine - Marine Animal</type> 
+			<pt>3000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[On Destruction] +1 Memory.</text>
+		</card>
+		<card>
+			<name>Koemon (BT1-031)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-031.png">BT1</set>
+			<color>Blue</color>
+			<manacost>4</manacost>
+			<cmc>1</cmc>
+			<type>Digimon - Child - Virus - Beast</type> 
+			<pt>1000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Blocker]</text>
+		</card>
+		<card>
+			<name>Yukidarumon (BT1-032)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-032.png">BT1</set>
+			<color>Blue</color>
+			<manacost>4</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Vaccine - Ice-Snow</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Jamming]</text>
+		</card>
+		<card>
+			<name>Rukamon (BT1-033)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-033.png">BT1</set>
+			<color>Blue</color>
+			<manacost>4</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Vaccine - Aquatic Mammal</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[Your Turn] If your opponent controls a Digimon with no Evolution Sources, this Digimon gets +1000 DP.</text>
+		</card>
+		<card>
+			<name>Ikkakumon (BT1-034)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-034.png">BT1</set>
 			<color>Blue</color>
 			<manacost>5</manacost>
-			<cmc>3</cmc>
-			<type>Digimon - Beast Man - Vaccine - Adult</type> 
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Vaccine - Marine Animal</type> 
 			<pt>5000</pt>
 			<loyalty>4</loyalty>
 			<tablerow>2</tablerow>
-			<text>[When destroyed] Summon 1 Child-level Digimon from this Digimon’s Evolution Sources without paying the cost.</text>
+			<text>(Evolution Source)[Your Turn] This Digimon cannot be blocked by Digimon your opponent controls with no Evolution Sources.</text>
+		</card>
+		<card>
+			<name>Leomon (BT1-034)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-035.png">BT1</set>
+			<color>Blue</color>
+			<manacost>5</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Vaccine - Beast Man</type> 
+			<pt>5000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Destruction] +2 Memory.</text>
+		</card>
+		<card>
+			<name>Garurumon (BT1-036)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-036.png">BT1</set>
+			<color>Blue</color>
+			<manacost>6</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Vaccine - Beast</type> 
+			<pt>5000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play] Make 1 Digimon you control Active.</text>
+		</card>
+		<card>
+			<name>Gorimon (BT1-037)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-037.png">BT1</set>
+			<color>Blue</color>
+			<manacost>6</manacost>
+			<cmc>1</cmc>
+			<type>Digimon - Adult - Data - Beast Man</type> 
+			<pt>6000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Monzaemon (BT1-038)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-038.png">BT1</set>
+			<color>Blue</color>
+			<manacost>5</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Perfect - Vaccine - Puppet</type> 
+			<pt>6000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Cerberumon (BT1-039)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-039.png">BT1</set>
+			<color>Blue</color>
+			<manacost>6</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Vaccine - Demon Beast</type> 
+			<pt>6000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Attack][2/Turn] You may discard 3 cards from your hand, if you do, make this Digimon Active.</text>
+		</card>
+		<card>
+			<name>WereGarurumon (BT1-040)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-040.png">BT1</set>
+			<color>Blue</color>
+			<manacost>6</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Vaccine - Beast Man</type> 
+			<pt>7000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Attack] +3 Memory. At the end of this turn, -3 Memory.</text>
+		</card>
+		<card>
+			<name>Zudomon (BT1-041)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-041.png">BT1</set>
+			<color>Blue</color>
+			<manacost>7</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Vaccine - Marine Animal</type> 
+			<pt>6000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play][2 Draw]
+
+(Evolution Source)[On Attack] If your opponent controls a Digimon with no Evolution Sources, +1 Memory.</text>
+		</card>
+		<card>
+			<name>LoaderLiomon (BT1-042)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-042.png">BT1</set>
+			<color>Blue</color>
+			<manacost>7</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Vaccine - Machine</type> 
+			<pt>10000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>SaberLeomon (BT1-043)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-043.png">BT1</set>
+			<color>Blue</color>
+			<manacost>11</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Ultimate - Data - Ancient Beast</type> 
+			<pt>10000</pt>
+			<loyalty>6</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Evolution] Discard the lowest 4 Evolution Sources from 1 Digimon your opponent controls.</text>
+		</card>
+		<card>
+			<name>MetalGarurumon (BT1-044)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-044.png">BT1</set>
+			<color>Blue</color>
+			<manacost>12</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Ultimate - Data - Cyborg</type> 
+			<pt>11000</pt>
+			<loyalty>6</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Attack] Play a Level 4 or less Digimon from this Digimon's Evolution Sources as a new Digimon without paying its cost.</text>
+		</card>
+		<card>
+			<name>Tsukaimon (BT1-045)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-045.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>2</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Virus - Mammal</type> 
+			<pt>3000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Kudamon (BT1-046)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-046.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Vaccine - Holy Beast</type> 
+			<pt>1000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Attack] If the number of cards in your hand is 4 or less, [1 Draw].</text>
+		</card>
+		<card>
+			<name>Tinkermon (BT1-047)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-047.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Virus - Fairy</type> 
+			<pt>3000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Patamon (BT1-048)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-048.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Data - Mammal</type> 
+			<pt>2000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play] Reveal 4 cards from the top of your deck, and add all Yellow Tamer Cards revealed to your hand. Place the remaining cards on the bottom of your deck in any order.</text>
+		</card>
+		<card>
+			<name>Labramon (BT1-049)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-049.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Vaccine - Beast</type> 
+			<pt>1000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[Your Turn] If a Digimon your opponent controls is destroyed by having its DP reduced to 0, [1 Draw].</text>
+		</card>
+		<card>
+			<name>Liollmon (BT1-050)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-050.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Vaccine - Holy Beast</type> 
+			<pt>4000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Reppamon (BT1-051)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-051.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>3</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Vaccine - Holy Beast</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Shiisaamon (BT1-052)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-052.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>4</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Vaccine - Holy Beast</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Jamming]</text>
+		</card>
+		<card>
+			<name>D'Arcmon (BT1-053)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-053.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>4</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Vaccine - Angel</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Your Turn] If you play a Yellow Level 3 Digimon while this Digimon is in Rest, [1 Draw].</text>
+		</card>
+		<card>
+			<name>Liamon (BT1-054)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-054.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>4</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Adult - Vaccine - Holy Beast</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Attack] If you have 3 or more Memory, for this turn, 1 Digimon your opponent controls gets -2000 DP.</text>
+		</card>
+		<card>
+			<name>Angemon (BT1-055)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-055.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>5</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Vaccine - Angel</type> 
+			<pt>3000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play] For this turn, 1 Digimon your opponent controls gets -3000 DP.</text>
+		</card>
+		<card>
+			<name>Petermon (BT1-056)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-056.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>5</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Data - Fairy</type> 
+			<pt>5000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play] You may play 1 "Tinkermon" from your hand or Trash without pays its cost.</text>
+		</card>
+		<card>
+			<name>Sirenmon (BT1-057)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-057.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>5</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Perfect - Data - God Man</type> 
+			<pt>6000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Qilinmon (BT1-058)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-058.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>6</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Data - Holy Beast</type> 
+			<pt>7000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Attack] +3 Memory. At the end of this turn, -3 Memory.</text>
+		</card>
+		<card>
+			<name>Piccolomon (BT1-059)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-059.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>6</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Data - Fairy</type> 
+			<pt>9000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>HolyAngemon (BT1-060)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-060.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>7</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Vaccine - Archangel</type> 
+			<pt>6000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play][Recovery +1(Deck)]
+
+(Evolution Source)[Your Turn] For every 3 of your Security, this Digimon gets +1000 DP.</text>
+		</card>
+		<card>
+			<name>Mistymon (BT1-061)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-061.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>7</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Virus - Magic Warrior</type> 
+			<pt>7000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play] For this turn, 2 Digimon your opponent controls get -3000 DP.</text>
+		</card>
+		<card>
+			<name>SlashAngemon (BT1-062)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-062.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>11</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Ultimate - Vaccine - Power</type> 
+			<pt>8000</pt>
+			<loyalty>6</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Evolution] For this turn, 1 Digimon your opponent controls gets -8000 DP.</text>
+		</card>
+		<card>
+			<name>Seraphimon (BT1-063)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-063.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>12</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Ultimate - Vaccine - Seraph / Three Great Angels</type> 
+			<pt>10000</pt>
+			<loyalty>6</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Evolution][Recovery +1(Deck)]
+[Your Turn] While your Security is 3 or more, this Digimon gets [Security Attack +1].</text>
+		</card>
+		<card>
+			<name>Goblimon (BT1-064)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-064.png">BT1</set>
+			<color>Green</color>
+			<manacost>2</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Virus - Oni</type> 
+			<pt>3000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Mushmon (BT1-065)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-065.png">BT1</set>
+			<color>Green</color>
+			<manacost>2</manacost>
+			<cmc>1</cmc>
+			<type>Digimon - Child - Virus - Plant</type> 
+			<pt>4000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>			
+		<card>
+			<name>Tentomon (BT1-066)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-066.png">BT1</set>
+			<color>Green</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Vaccine - Insect</type> 
+			<pt>2000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[On Attack] Rest 1 Digimon your opponent controls with 3000 DP or less.</text>
+		</card>
+		<card>
+			<name>Palmon (BT1-067)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-067.png">BT1</set>
+			<color>Green</color>
+			<manacost>3</manacost>
+			<cmc>0</cmc>
+			<type>Digimon - Child - Data - Plant</type> 
+			<pt>1000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play] Reveal 3 cards from the top of your deck, add 1 Level 4 Digimon Card from among them to your hand. Return the remaining cards to the bottom of your deck in any order.</text>
+		</card>	
+		<card>
+			<name>Kokuwamon (BT1-068)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-068.png">BT1</set>
+			<color>Green</color>
+			<manacost>4</manacost>
+			<cmc>1</cmc>
+			<type>Digimon - Child - Data - Machine</type> 
+			<pt>2000</pt>
+			<loyalty>3</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[Your Turn] If this Digimon is Level 6 or greater, this Digimon gets [Security Attack +1].</text>
+		</card>
+		<card>
+			<name>Ogremon (BT1-069)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-069.png">BT1</set>
+			<color>Green</color>
+			<manacost>4</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Virus - Oni</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Jamming]</text>
+		</card>
+		<card>
+			<name>Kuwagamon (BT1-070)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-070.png">BT1</set>
+			<color>Green</color>
+			<manacost>4</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Virus - Insect</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Play] Rest 1 Digimon your opponent controls.</text>
+		</card>	
+		<card>
+			<name>Vegimon (BT1-071)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-071.png">BT1</set>
+			<color>Green</color>
+			<manacost>4</manacost>
+			<cmc>1</cmc>
+			<type>Digimon - Adult - Virus - Insectivorous Plant</type> 
+			<pt>4000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Woodmon (BT1-072)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-072.png">BT1</set>
+			<color>Green</color>
+			<manacost>5</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Virus - Plant</type> 
+			<pt>6000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Blocker]
+[On Attack] -2 Memory.</text>
+		</card>
+		<card>
+			<name>Kabuterimon (BT1-073)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-073.png">BT1</set>
+			<color>Green</color>
+			<manacost>6</manacost>
+			<cmc>1</cmc>
+			<type>Digimon - Adult - Vaccine - Insect</type> 
+			<pt>5000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[Your Turn] For each Digimon in Rest your opponent controls, this Digimon gets +1000 DP.</text>
+		</card>	
+		<card>
+			<name>Togemon (BT1-074)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-074.png">BT1</set>
+			<color>Green</color>
+			<manacost>6</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Adult - Data - Plant</type> 
+			<pt>5000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Evolution] Reveal 3 cards from the top of your deck, and add 1 Level 5 or greater Digimon Card from among them to your hand. Return the remaining cards to the bottom of your deck in any order.</text>
+		</card>
+		<card>
+			<name>Digitamamon (BT1-075)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-075.png">BT1</set>
+			<color>Green</color>
+			<manacost>6</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Data - Perfect</type> 
+			<pt>7000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Attack] +3 Memory. At the end of this turn, -3 Memory.</text>
+		</card>
+		<card>
+			<name>AtlurKabuterimon (BT1-076)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-076.png">BT1</set>
+			<color>Green</color>
+			<manacost>7</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Perfect - Vaccine - Insect</type> 
+			<pt>6000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[On Attack] If your opponent controls 2 or more Digimon in Rest, +1 Memory.</text>
+		</card>
+		<card>
+			<name>Ookuwamon (BT1-077)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-077.png">BT1</set>
+			<color>Green</color>
+			<manacost>7</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Perfect - Virus - Insect</type> 
+			<pt>6000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[Your Turn] When this Digimon destroys a Digimon your opponent controls by battle, +1 Memory.</text>
+		</card>
+		<card>
+			<name>Jagamon (BT1-078)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-078.png">BT1</set>
+			<color>Green</color>
+			<manacost>7</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Vaccine - Plant</type> 
+			<pt>7000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Attack] Reveal 3 cards from the top of your deck, you may evolve this Digimon into a Green Level 6 Digimon from among them without paying its cost. Return the remaining cards to the bottom of your deck in any order.</text>
+		</card>	
+		<card>
+			<name>Lilymon (BT1-079)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-079.png">BT1</set>
+			<color>Green</color>
+			<manacost>7</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Perfect - Data - Fairy</type> 
+			<pt>6000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>(Evolution Source)[On Attack] Rest a Digimon your opponent controls that does not have [Blocker].</text>
+		</card>
+		<card>
+			<name>Titamon (BT1-080)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-080.png">BT1</set>
+			<color>Green</color>
+			<manacost>10</manacost>
+			<cmc>2</cmc>
+			<type>Digimon - Ultimate - Virus - God Man</type> 
+			<pt>12000</pt>
+			<loyalty>6</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>HerakleKabuterimon (BT1-081)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-081.png">BT1</set>
+			<color>Green</color>
+			<manacost>12</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Ultimate - Vaccine - Insect</type> 
+			<pt>10000</pt>
+			<loyalty>6</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Piercing]
+[At End of Attack][2/Turn] You may make this Digimon Active for -3 Memory.</text>
+		</card>
+		<card>
+			<name>Rosemon (BT1-082)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-082.png">BT1</set>
+			<color>Green</color>
+			<manacost>12</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Ultimate - Data - Fairy</type> 
+			<pt>11000</pt>
+			<loyalty>6</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Your Opponent's turn] After a Digimon your opponent controls attacks a Player or Security, if this Digimon is in Rest, Rest 1 Digimon your opponent controls.</text>
+		</card>
+		<card>
+			<name>GranKuwagamon (BT1-083)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-083.png">BT1</set>
+			<color>Green</color>
+			<manacost>13</manacost>
+			<cmc>4</cmc>
+			<type>Digimon - Ultimate - Free - Insect</type> 
+			<pt>11000</pt>
+			<loyalty>6</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Piercing]
+[Your Turn] This Digimon gets +4000 DP.</text>
+		</card>
+		<card>
+			<name>Omegamon (BT1-084)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-084.png">BT1</set>
+			<color>Colorless</color>
+			<manacost>15</manacost>
+			<cmc>6</cmc>
+			<type>Digimon - Ultimate - Vaccine - Holy Knight / Royal Knight</type> 
+			<pt>15000</pt>
+			<loyalty>7</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Evolution] Choose 1 Digimon your opponent controls. Destroy all Digimon your opponent controls with the same name as that Digimon.
+[On Attack] Return 1 Level 6 Digimon from this Digimon's Evolution Sources to your hand, if you do, make this Digimon Active.</text>
+		</card>
+		<card>
+			<name>Yagami Taichi (BT1-085)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-085.png">BT1</set>
+			<color>Red</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Tamer</type> 
+			<tablerow>2</tablerow>
+			<text>[Start of Your Turn] If you have 2 or less Memory, it becomes 3.
+[Your Turn] All Red Digimon you control with 4 or more Evolution sources get [Security Attack +1]
+
+[Security] Play this card without paying its cost.</text>
+		</card>
+		<card>
+			<name>Ishida Yamato (BT1-086)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-086.png">BT1</set>
+			<color>Blue</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Tamer</type> 
+			<tablerow>2</tablerow>
+			<text>[Start of Your Turn] If you have 2 or less Memory, it becomes 3.
+[Your Turn] When you play a Blue Digimon, you may Rest this Tamer to discard the lowest Evolution Source from 1 Digimon your opponent controls.
+
+[Security] Play this card without paying its cost.</text>
+		</card>
+		<card>
+			<name>Takishi Takeru (BT1-087)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-087.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Tamer</type> 
+			<tablerow>2</tablerow>
+			<text>[Start of Your Turn] If you have 2 or less Memory, it becomes 3.
+[On Play] Look at all of your Security Cards, reveal 1 of them and add it to your hand. If the card you revealed is Yellow, [Recovery +1(Deck)]. Shuffle your Security.
+
+[Security] Play this card without paying its cost.</text>
+		</card>
+		<card>
+			<name>Izumi Koushirou (BT1-088)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-088.png">BT1</set>
+			<color>Green</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Tamer</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] If you control a Level 5 or greater Green Digimon, you may Rest this Tamer to reveal the top card of your deck. If that card is a Digimon Card, add it to your hand. If it is not, return it to the bottom of your deck.
+			
+[Security] Play this card without paying its cost.</text>
+		</card>
+		<card>
+			<name>Tachikawa Mimi (BT1-089)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-089.png">BT1</set>
+			<color>Green</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Tamer</type> 
+			<tablerow>2</tablerow>
+			<text>[Start of Your Turn] If you have 2 or less Memory, it becomes 3.
+[Main] If you control a Level 5 or greater Green Digimon, you may Rest this Tamer to either hatch 1 Digitama Card in your Raising Area, or move 1 Level 3 or greater Digimon from the Raising Area to the Battle Area.
+
+[Security] Play this card without paying its cost.</text>
+		</card>
+		<card>
+			<name>Gravity Press (BT1-090)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-090.png">BT1</set>
+			<color>Red</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] +2 Memory. At the end of this turn, -2 Memory.</text>
+		</card>
+		<card>
+			<name>Scrapless Claw (BT1-091)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-091.png">BT1</set>
+			<color>Red</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] For this turn, 1 Digimon you control gets [Piercing].</text>
+		</card>
+		<card>
+			<name>Nuclear Laser (BT1-092)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-092.png">BT1</set>
+			<color>Red</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main][2 Draw]. For this turn, 1 Digimon you control gets +2000 DP.</text>
+		</card>
+		<card>
+			<name>Brave Tornado (BT1-093)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-093.png">BT1</set>
+			<color>Red</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] For this turn, 1 Digimon you control gets +2000 DP and [Security Attack +1].
+
+[Security] Add this card to your hand.</text>
+		</card>
+		<card>
+			<name>Oblivion Bird (BT1-094)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-094.png">BT1</set>
+			<color>Red</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] Destroy 1 Digimon your opponent controls with [Blocker].
+
+[Security] Activate this card's [Main] effect.</text>
+		</card>
+		<card>
+			<name>Brave Shield (BT1-095)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-095.png">BT1</set>
+			<color>Red</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] Make 1 Digimon you control Active. Until the end of your opponent's next turn, that Digimon gets [Blocker].
+
+[Security] Make 1 Digimon you control Active. For this turn, that Digimon gets [Blocker].</text>
+		</card>
+		<card>
+			<name>Hell Fire (BT1-096)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-096.png">BT1</set>
+			<color>Blue</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] For this turn, 1 Digimon you control gets +3000 DP.
+
+[Security][1 Draw]. Add this card to your hand.</text>
+		</card>
+		<card>
+			<name>Boring Storm (BT1-097)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-097.png">BT1</set>
+			<color>Blue</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main][1 Draw]
+
+[Security][2 Draw]</text>
+		</card>
+		<card>
+			<name>V-Breath Arrow (BT1-098)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-098.png">BT1</set>
+			<color>Blue</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] For this turn, 1 Digimon you control gets [Jamming].
+
+[Security] Add this card to your hand.</text>
+		</card>
+		<card>
+			<name>Lovely Attack (BT1-099)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-099.png">BT1</set>
+			<color>Blue</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] Discard all Evolution sources from 1 Digimon your opponent controls.</text>
+		</card>
+		<card>
+			<name>Grace Cross Freezer (BT1-100)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-100.png">BT1</set>
+			<color>Blue</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] Until the end of your opponent's next turn, all Digimon your opponent controls with no Evolution Sources cannot attack.
+			
+[Security] For this turn, all Digimon your opponent controls with no Evolution Sources cannot attack.</text>
+		</card>
+		<card>
+			<name>Nail Crusher (BT1-101)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-101.png">BT1</set>
+			<color>Blue</color>
+			<manacost>7</manacost>
+			<cmc>7</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] Discard all the Evolution Sources from Digimon your opponent controls.
+
+[Security] Activate this card's [Main] effect.</text>
+		</card>
+		<card>
+			<name>Holy Espada (BT1-102)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-102.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] For every 2 of your Security, [1 Draw].
+
+[Security] Activate this card's [Main] effect.</text>
+		</card>
+		<card>
+			<name>Testament (BT1-103)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-103.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] Until the end of your opponent's next turn, 1 Digimon you control gets [Blocker].
+
+[Security][1 Draw]. Add this card to your hand.</text>
+		</card>
+		<card>
+			<name>Heaven's Ripper (BT1-104)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-104.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] For this turn, all Digimon you control get "[On Attack] For this turn, 1 Digimon your opponent controls gets -2000 DP."</text>
+		</card>
+		<card>
+			<name>Blast Fire (BT1-105)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-105.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] Until the end of your opponent's next turn, the DP of 1 Digimon your opponent controls becomes 3000.</text>
+		</card>
+		<card>
+			<name>No.1 "Polyphony" (BT1-106)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-106.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] For this turn, 1 Digimon your opponent controls gets -7000 DP.</text>
+		</card>
+		<card>
+			<name>Reformation Wave (BT1-107)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-107.png">BT1</set>
+			<color>Yellow</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main][Recovery +1(Deck)]
+
+[Security] Activate this card's [Main] effect.</text>
+		</card>
+		<card>
+			<name>Horn Buster (BT1-108)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-108.png">BT1</set>
+			<color>Green</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] For this turn, 1 Digimon you control gets 3000 DP.
+
+[Security] Rest 1 Digimon your opponent controls. Add this card to your hand.</text>
+		</card>
+		<card>
+			<name>Smash Potato (BT1-109)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-109.png">BT1</set>
+			<color>Green</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] For this turn, when the next Green Digimon evolves from Level 5 to Level 6, it gets -4 Evolution Cost.</text>
+		</card>
+		<card>
+			<name>Flow Cannon (BT1-110)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-110.png">BT1</set>
+			<color>Green</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] Rest 1 Digimon your opponent controls.
+
+[Security] Rest all Digimon your opponent controls that do not have [Blocker].</text>
+		</card>
+		<card>
+			<name>Giga Blaster (BT1-111)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-111.png">BT1</set>
+			<color>Green</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] Rest either 1 Digimon your opponent controls, or 2 Digimon your opponent controls with 5000 DP or less.
+
+[Security] Activate this card's [Main] effect.</text>
+		</card>
+		<card>
+			<name>Dimension Scissor (BT1-112)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-112.png">BT1</set>
+			<color>Green</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] For this turn, 1 Digimon you control gets "When this Digimon destroys 1 Digimon your opponent controls by battle, make this Digimon Active."
+
+[Security] Add this card to your hand.</text>
+		</card>
+		<card>
+			<name>Forbidden Temptation (BT1-113)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-113.png">BT1</set>
+			<color>Green</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Option</type> 
+			<tablerow>2</tablerow>
+			<text>[Main] Until the end of your opponent's next turn, 1 Digimon your opponent controls cannot attack or block.
+
+[Security] During the opponent's next Active Phase, their Digimon do not become Active.</text>
+		</card>
+		<card>
+			<name>MetalGreymon (BT1-114)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-114.png">BT1</set>
+			<color>Red</color>
+			<manacost>8</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Perfect - Virus - Cyborg</type> 
+			<pt>9000</pt>
+			<loyalty>5</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Security Attack +2]
+[On Attack] -5 Memory.
+
+(Evolution Source)[Your Turn] This Digimon gets +3000 DP.</text>
+		</card>
+		<card>
+			<name>V-dramon (BT1-115)</name>
+			<set picURL="https://digimoncard.com/images/cardlist/card/BT1-115.png">BT1</set>
+			<color>Blue</color>
+			<manacost>6</manacost>
+			<cmc>3</cmc>
+			<type>Digimon - Adult - Vaccine - Mythical Dragon</type> 
+			<pt>6000</pt>
+			<loyalty>4</loyalty>
+			<tablerow>2</tablerow>
+			<text>[On Attack][1/Turn] If you control a Tamer, make this Digimon Active.
+
+(Evolution Source)[Both Turns] If you control a Blue Tamer, this Digimon gets +1000 DP.</text>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
